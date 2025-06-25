@@ -1,6 +1,6 @@
 
 ````markdown
-![CourtClusters Banner](https://i.imgur.com/EfK57Uh.png)
+
 
 # 🏀 CourtClusters
 ### *Player Profiling via Hierarchical Clustering*
