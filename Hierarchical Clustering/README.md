@@ -1,18 +1,3 @@
-Perfect — here's a **detailed, professionally styled `README.md`** tailored for GitHub ✨
-It includes:
-
-* Banner
-* Project intro
-* Algorithm function
-* Workflow
-* Visuals
-* File structure
-* How to run
-* Credits
-
----
-
-### ✅ Copy-paste–ready `README.md`
 
 ````markdown
 <p align="center">
