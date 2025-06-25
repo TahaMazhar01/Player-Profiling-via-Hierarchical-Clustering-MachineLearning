@@ -1,14 +1,12 @@
 
 ````markdown
-<p align="center">
-  <img src="https://i.imgur.com/EfK57Uh.png" alt="CourtClusters Banner" width="800"/>
-</p>
+![CourtClusters Banner](https://i.imgur.com/EfK57Uh.png)
 
-<h1 align="center">🏀 CourtClusters</h1>
-<p align="center">
-  <b>Player Profiling via Hierarchical Clustering</b><br>
-  Cluster NBA players by their physical attributes — visualize hidden player types using unsupervised learning.
-</p>
+# 🏀 CourtClusters
+### *Player Profiling via Hierarchical Clustering*
+
+Cluster NBA players by their physical attributes — visualize hidden player types using unsupervised learning.
+
 
 ---
 
